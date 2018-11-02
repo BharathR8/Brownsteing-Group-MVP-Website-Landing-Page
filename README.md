@@ -1,3 +1,4 @@
-# Brownstein-Group-MVP-Website-Landing-Page
-I have created the landing page of the website with the given instructions. 
-Please download all the files on your local PC before you run the application.
+# Restaurant-Website-Landing-Page
+I have developed the landing page of a restaurant website as an MVP. 
+
+Technologies: HTML5, CSS3, JavaScript, jQuery, Bootstrap
